@@ -17,7 +17,7 @@ $$
 **这是一个`align`的公式**：
 
 $$
-\text{for OTP : $\qquad$ if }\quad E(k,\:m)=c\\
+\text{for OTP : \qquad if }\quad E(k,\:m)=c\\
 \begin{align}
 k\oplus m &= c \\
 k &= m\oplus c
