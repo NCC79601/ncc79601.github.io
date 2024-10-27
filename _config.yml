@@ -1,7 +1,7 @@
 # Site settings 配置站点
-title: "NCC-79601 Captain's Log"
+title: "郑皓文的博客"
 description: 'To boldly go where no one has gone before.'
-keyword: 'NCC-79601'
+keyword: 'NCC-79601, 郑皓文, zhenghaowen, blog'
 url: '' # your host
 
 # when build blog on server, if you don't need baseurl, you should leave this value blank.
@@ -24,9 +24,9 @@ footer:
   since: 2024
 
 # Author 配置博主信息
-author: 'NCC-79601'
+author: '郑皓文'
 nickname: 'Max Tedder'
-bio: 'To boldly go where no one has gone before.'
+bio: '有志者, 事竟成.'
 avatar: '/assets/img/profile.png'
 
 # Search
