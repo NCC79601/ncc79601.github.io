@@ -1,3 +1,13 @@
+// font-face definitions
+@font-face {
+    font-family: 'ncc1701a';
+    src: url(/assets/fonts/ncc1701a.ttf) format('truetype');
+}
+@font-face {
+    font-family: 'mageto';
+    src: url(/assets/fonts/MAGNETOB.TTF) format('truetype');
+}
+
 /*** Main style ***/
 
 .g-container {
@@ -114,15 +124,16 @@
         padding-top: 190px;
         line-height: 38px;
         font-size: 42px;
-        font-family: 'Arial', 'Hiragino Sans GB', 'Microsoft YaHei', 'WenQuanYi Micro Hei', sans-serif;
+        font-family: 'ncc1701a', 'Arial', 'Hiragino Sans GB', 'Microsoft YaHei', 'WenQuanYi Micro Hei', sans-serif;
         font-weight: bold;
         letter-spacing: 2px;
         line-height: 52px;
     }
     h3 {
-        font-size: 20px;
+        font-size: 24px;
         font-weight: normal;
-        letter-spacing: 10px;
+        font-family: 'mageto', 'Arial', 'Hiragino Sans GB', 'Microsoft YaHei', 'WenQuanYi Micro Hei', sans-serif;
+        letter-spacing: 0px;
         margin-top: 8px;
     }
 }
